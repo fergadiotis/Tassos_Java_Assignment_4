@@ -1,4 +1,4 @@
 # Tassos_Java_Assignment_4
 
-- gave save file
+- Game save file
 - Win and Loss file   
