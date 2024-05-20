@@ -1,0 +1,4 @@
+Human Sword Chainmail
+167 158 119
+Orc Sword Leather
+18 250 57
